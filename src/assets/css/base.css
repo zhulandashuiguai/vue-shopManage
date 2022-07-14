@@ -1,0 +1,18 @@
+@import url(./normalize.css);
+
+/* 矢量图标库样式 */
+
+@import url('https://at.alicdn.com/t/font_3453519_mp2j5is8zio.css?spm=a313x.7781069.1998910419.77&file=font_3453519_mp2j5is8zio.css');
+body {
+    background-color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
